@@ -1,7 +1,7 @@
 # Health Management Platform
 
 ## Project Overview
-This project is a health management platform built with Java (Spring Boot) for the backend and Vue.js (Element UI) for the frontend.  
+This project is a health management platform built with Java (Spring Boot) for the backend and React/JavaScript for the frontend.  
 The system implements RESTful APIs, supports health record management, file uploads, data visualization, and role-based access control to enhance user experience and system scalability.
 
 ---
@@ -19,7 +19,7 @@ mvn spring-boot:run
 ```
 cd source code/personal-heath-view
 npm install
-npm run serve
+npm run server
 ```
 
 ## Key Features
@@ -33,6 +33,6 @@ Data visualization with charts to show health trends;
 
 Role-based access control for user permission management
 
-## Technologies: Java, JavaScript, Spring Boot, Vue.js, Element UI
+## Technologies: Java, JavaScript, Spring Boot, React.js
 
 ## Contact: li.bo10@northeastern.edu
