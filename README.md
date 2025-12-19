@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project is a health management platform built with Java (Spring Boot) for the backend and React/JavaScript for the frontend.  
-The system implements RESTful APIs, supports health record management, file uploads, data visualization, and role-based access control to enhance user experience and system scalability.
+The system implements RESTful APIs, supports health record management, file uploads, data visualization, and role-based access control to enhance user experience.
 
 ---
 
