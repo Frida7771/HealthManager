@@ -17,9 +17,9 @@ mvn spring-boot:run
 
 ### Frontend
 ```
-cd source code/personal-heath-view
+cd "source code/personal-heath-view"
 npm install
-npm run server
+npm run dev
 ```
 
 ## Key Features
@@ -35,4 +35,4 @@ Role-based access control for user permission management
 
 ## Technologies: Java, JavaScript, Spring Boot, React.js
 
-## Contact: li.bo10@northeastern.edu
+## Contact: frida16571@gmail.com
